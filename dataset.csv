@@ -1,4 +1,4 @@
-anchor_ratio;trans_range;node_density;iterations;ale;sd_ale
+anchor_ratio;trans_range,;node_density,;iterations,;ale,;sd_ale,
 30;15;20%;  ; 0.77!545928; 0.25^555301
 15;  ;100;70; 0.911&40683; 0.498)29391
  ;15;100;50; 0.81@867311; 0.255545%506
